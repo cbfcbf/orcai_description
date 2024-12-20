@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 
-project(orca_description)
+project(orcai_description)
 
 find_package(catkin REQUIRED)
 
