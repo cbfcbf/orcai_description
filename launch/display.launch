@@ -3,7 +3,7 @@
     name="model" />
   <param
     name="robot_description"
-    textfile="$(find orca_description)/urdf/orca_description.urdf" />
+    textfile="$(find orca_stable)/urdf/orca_description_stable_rviz.urdf" />
   <node
     name="joint_state_publisher_gui"
     pkg="joint_state_publisher_gui"
@@ -16,5 +16,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find orca_description)/config/urdf.rviz" />
+    args="-d $(find orca_stable)/config/urdf.rviz" />
 </launch>

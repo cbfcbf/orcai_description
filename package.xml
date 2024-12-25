@@ -1,8 +1,8 @@
 <package format="2">
-  <name>orca_description</name>
+  <name>orca_stable</name>
   <version>1.0.0</version>
   <description>
-    <p>URDF Description package for orca_description</p>
+    <p>URDF Description package for orca_stable</p>
     <p>This package contains configuration data, 3D models and launch files
 for orca_description robot</p>
   </description>
